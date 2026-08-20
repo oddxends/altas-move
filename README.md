@@ -247,6 +247,4 @@ does survive — the format's in the developer README.
 ## Credits
 
 Built on [Schwung](https://github.com/charlesvestal/schwung) by Charles Vestal.
-Chord-map layout inspired by ChordMaps2. Thanks to
-[schwung-control](https://github.com/chaolue/schwung-control) — reading its
-source is what finally identified the working MIDI output path.
+Special thanks to  Stephem Mugglin as this is a Chord-map layout inspired by [ChordMaps2 IOS](https://mugglinworks.com/ChordMaps2/) app . 
