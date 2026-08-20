@@ -1,6 +1,6 @@
 # ATLAS
 
-A chord instrument for the Ableton Move, built as a [Schwung](https://github.com/charlesvestal/schwung)
+A MIDI Key-Aware Chord/Strum/Single and Dual Arpeggiator instrument for the Ableton Move, built as a [Schwung](https://github.com/charlesvestal/schwung)
 overtake module.
 
 Twenty pages of harmony on the pads — triads, sevenths, blues, secondary
@@ -17,13 +17,12 @@ you build as you play.
 **ATLAS sends notes over USB.** Plug the Move into a computer and it appears as
 a MIDI device — DAW, softsynth, whatever you like.
 
-**It cannot play Move's own internal synths.** Not a bug in ATLAS: the function
-that would reach them runs and delivers nothing in the current Schwung release,
-and other overtake modules hit the same wall. If a later Schwung fixes it,
+**It cannot play Move's own internal synths. (Currently)** Not a bug in ATLAS: the function
+that would reach them runs and delivers nothing in the current Schwung release 0.12.1,a later fix in the works,
 **Shift+Mute** turns on that second route — it's already wired up and off by
 default.
 
-So: USB works, internal doesn't. Set your DAW up before you wonder why it's
+So: USB works, internal doesn't. Set your DAW or External Synth up before you wonder why it's
 quiet.
 
 ---
@@ -44,7 +43,7 @@ Then pick **Atlas** from Schwung's Overtake menu.
 
 ## The one idea that makes it click
 
-**Left and right changes which chord. Up and down changes how thick it is.**
+**Matrix pads Left and right changes which chord. Up and down changes how thick it is.**
 
 Every page is eight columns by four rows. Columns are the chords — I, ii, iii,
 IV and so on. Rows are how much you're stacking on top: a plain triad at the
@@ -63,7 +62,7 @@ a glance where you are.
 
 ## Getting a sound out
 
-1. Plug into a computer, arm a MIDI track.
+1. Plug into a computer or USB-A out to your Synth.
 2. Press pads. You're on **TRIADS-6** by default — the full major scale.
 3. Turn **K2** to change key, **K3** for major/minor.
 4. Turn the **jog wheel** to browse pages; the name blinks until you **click**
@@ -118,10 +117,6 @@ they're separate.
 | **Copy** | LEGATO — every chord rings until the next one. Blinks while armed |
 | **Undo** | stop everything |
 
-Legato and page-change sustain have **no timeout**. That's deliberate — a
-progression shouldn't gap because you paused — but it means Undo is how you
-stop, not waiting.
-
 ---
 
 ## The sixteen step buttons
@@ -130,7 +125,7 @@ stop, not waiting.
 |---|---|
 | **1–8** | the bass notes of the key. 1 and 8 are the root, in red |
 | **9** | silence — somewhere neutral to land |
-| **10–13** | notes from *the chord you just played* — 3rd, 5th, 7th, ♭7 |
+| **10–13** | notes from *the chord you just played* — 3rd, 5th, 7th, ♭7 (if present) |
 | **14–16** | two-note figures: root+3rd, root+leading tone, root+5th |
 
 Both lanes sit an octave under the chord.
@@ -146,10 +141,10 @@ gives you a bouncing bass figure.
 ## Timing
 
 Press **Menu** — the steps become a rate strip and the button blinks. Steps 1–8
-are dotted values, 9–16 straight and triplet. Pick as many as you like; press
+are dotted values, 9–16 straight and triplet. Pick as you like; press
 Menu again to leave.
 
-**Click the jog while it's open** for **dual rates** — sixteen two-speed
+**Click the jog while it's open** for **dual ARP rates** — sixteen two-speed
 patterns. The first few notes go at one rate and the rest at another, then it
 wraps round. `1/4>1/8` accents the first two notes; `3x8>16` gives you three
 slow then a run.
@@ -164,14 +159,14 @@ rate it's quantising. 4/4 only.
 
 | | | Steps to move it |
 |---|---|---|
-| K1 | tempo, 40–240 | 5 |
-| K2 | key | 6 |
-| K3 | major / minor | 8 |
-| K4 | spread — CLOSE, DROP2, DROP3, OPEN, ROOTLESS | 6 |
-| K5 | inversion — 0 is automatic | 6 |
-| K6 | strum spacing, 40–100 ms | 6 |
-| K7 | arp note length, 10–200% | 6 |
-| K8 | which note the arp starts on | 6 |
+| K1 | tempo, 40–240 | dentent friction 5 |
+| K2 | key | dentent friction 6 |
+| K3 | major / minor | dentent friction 8 |
+| K4 | spread — CLOSE, DROP2, DROP3, OPEN, ROOTLESS | dentent friction 6 |
+| K5 | inversion — 0 is automatic | dentent friction 6 |
+| K6 | strum spacing, 40–100 ms | dentent friction 6 |
+| K7 | arp note length, 10–200% | dentent friction 6 |
+| K8 | which note the arp starts on | dentent friction 6 |
 
 They're deliberately stiff so you don't knock them mid-performance.
 
@@ -227,8 +222,7 @@ Keep going and you build a set of favourites, from whichever pages you like.
 Captured chords are stored as *shapes*, so they follow you when you change key.
 
 **They're lost when the module reloads.** Schwung gives JavaScript modules no
-way to write files. You can also hand-write `pages/user.json` instead, which
-does survive — the format's in the developer README.
+way to write files. You can also hand-write `pages/user.json` instead. 
 
 ---
 
@@ -236,8 +230,8 @@ does survive — the format's in the developer README.
 
 | | |
 |---|---|
-| No sound at all | it's USB only — check your DAW, not the Move |
-| ARP silent | press Play; it's clock-driven |
+| No sound at all | it's USB only — check your DAW/Synth,check the Move native track midi settings, and ensure the Schwung slot settings = Schwung+Move for MIDI FX |
+| ARP silent | press Play; it's internally clock-driven at the moment no sync currently |
 | A step is dark | that chord hasn't got that note |
 | Notes won't stop | **Undo**. Legato and sustain have no timeout |
 | Screen looks stale | check the version on page **M** matches what you installed |
