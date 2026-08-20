@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754">
+<rect width="1240" height="1754" fill="#FFFFFF"/>
+<style>
+.h1{font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:104px;letter-spacing:-4px;fill:#111}
+.h2{font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:19px;letter-spacing:1.5px;fill:#111}
+.lead{font-family:Helvetica,Arial,sans-serif;font-weight:400;font-size:21px;fill:#111}
+.b{font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:13px;fill:#111}
+.t{font-family:Helvetica,Arial,sans-serif;font-weight:400;font-size:13px;fill:#111}
+.s{font-family:Helvetica,Arial,sans-serif;font-weight:400;font-size:11px;fill:#767676}
+.red{fill:#E3000F}
+.cap{font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:10px;letter-spacing:1px;fill:#E3000F}
+.num{font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:11px;fill:#FFF}
+</style>
+<rect x="80" y="96" width="1080" height="8" fill="#E3000F"/>
+<text x="80" y="196" class="h1">ATLAS</text>
+<text x="80" y="230" class="h2">CHORD INSTRUMENT FOR ABLETON MOVE</text>
+<text x="710.0" y="168" class="lead">Twenty pages of harmony</text>
+<text x="710.0" y="196" class="lead">on the pads. Arpeggiator,</text>
+<text x="710.0" y="224" class="lead">strummer, two bass lanes.</text>
+<text x="710.0" y="256" class="s">A Schwung overtake module. Sends MIDI over USB.</text>
+<rect x="80" y="280" width="1080" height="1" fill="#111"/>
+<text x="80" y="322" class="cap">THE IDEA</text>
+<text x="80" y="356" class="lead">Columns are <tspan font-weight="700">which chord</tspan>. Rows are <tspan font-weight="700">how thick</tspan> it is.</text>
+<text x="80" y="382" class="t">Slide sideways to move through a progression. Slide up the same column to reharmonise the chord you are already on.</text>
+<rect x="80" y="414" width="1080" height="330" rx="10" fill="#151515"/>
+<rect x="102" y="434" width="118" height="52" rx="3" fill="#000" stroke="#333"/>
+<text x="107" y="448" font-family="monospace" font-size="7" fill="#9BE8B4">3/20  TRIADS-6</text>
+<text x="107" y="460" font-family="monospace" font-size="7" fill="#9BE8B4">C Major      IV F</text>
+<text x="107" y="472" font-family="monospace" font-size="7" fill="#9BE8B4">1 2- 3- 4 5 6- 7 b7</text>
+<text x="107" y="484" font-family="monospace" font-size="7" fill="#9BE8B4">MAJ CHORD      3</text>
+<circle cx="295" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="295" y1="460" x2="295" y2="446" stroke="#888" stroke-width="2"/>
+<text x="295" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K1</text>
+<circle cx="367" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="367" y1="460" x2="367" y2="446" stroke="#888" stroke-width="2"/>
+<text x="367" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K2</text>
+<circle cx="439" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="439" y1="460" x2="439" y2="446" stroke="#888" stroke-width="2"/>
+<text x="439" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K3</text>
+<circle cx="511" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="511" y1="460" x2="511" y2="446" stroke="#888" stroke-width="2"/>
+<text x="511" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K4</text>
+<circle cx="583" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="583" y1="460" x2="583" y2="446" stroke="#888" stroke-width="2"/>
+<text x="583" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K5</text>
+<circle cx="655" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="655" y1="460" x2="655" y2="446" stroke="#888" stroke-width="2"/>
+<text x="655" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K6</text>
+<circle cx="727" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="727" y1="460" x2="727" y2="446" stroke="#888" stroke-width="2"/>
+<text x="727" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K7</text>
+<circle cx="799" cy="460" r="17" fill="#232323" stroke="#3A3A3A"/>
+<line x1="799" y1="460" x2="799" y2="446" stroke="#888" stroke-width="2"/>
+<text x="799" y="494" class="s" fill="#9A9A9A" text-anchor="middle">K8</text>
+<circle cx="1120" cy="460" r="20" fill="#232323" stroke="#3A3A3A"/>
+<circle cx="142" cy="564" r="42" fill="#232323" stroke="#3A3A3A"/>
+<text x="142" y="622" class="s" fill="#9A9A9A" text-anchor="middle">JOG</text>
+<rect x="234" y="518" width="9" height="28" rx="4" fill="#3E93E6"/>
+<rect x="234" y="562" width="9" height="28" rx="4" fill="#46C07A"/>
+<rect x="234" y="606" width="9" height="28" rx="4" fill="#8E7BEF"/>
+<rect x="234" y="650" width="9" height="28" rx="4" fill="#F0B429"/>
+<rect x="258.0" y="510" width="93.75" height="36" rx="5" fill="#46C07A" opacity="1.0"/>
+<rect x="358.75" y="510" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="1.0"/>
+<rect x="459.5" y="510" width="93.75" height="36" rx="5" fill="#46C07A" opacity="1.0"/>
+<rect x="560.25" y="510" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="1.0"/>
+<rect x="661.0" y="510" width="93.75" height="36" rx="5" fill="#F0B429" opacity="1.0"/>
+<rect x="761.75" y="510" width="93.75" height="36" rx="5" fill="#46C07A" opacity="1.0"/>
+<rect x="862.5" y="510" width="93.75" height="36" rx="5" fill="#F0B429" opacity="1.0"/>
+<rect x="963.25" y="510" width="93.75" height="36" rx="5" fill="#C06BE0" opacity="1.0"/>
+<rect x="258.0" y="554" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.78"/>
+<rect x="358.75" y="554" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="0.78"/>
+<rect x="459.5" y="554" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.78"/>
+<rect x="560.25" y="554" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="0.78"/>
+<rect x="661.0" y="554" width="93.75" height="36" rx="5" fill="#F0B429" opacity="0.78"/>
+<rect x="761.75" y="554" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.78"/>
+<rect x="862.5" y="554" width="93.75" height="36" rx="5" fill="#F0B429" opacity="0.78"/>
+<rect x="963.25" y="554" width="93.75" height="36" rx="5" fill="#C06BE0" opacity="0.78"/>
+<rect x="258.0" y="598" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.58"/>
+<rect x="358.75" y="598" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="0.58"/>
+<rect x="459.5" y="598" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.58"/>
+<rect x="560.25" y="598" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="0.58"/>
+<rect x="661.0" y="598" width="93.75" height="36" rx="5" fill="#F0B429" opacity="0.58"/>
+<rect x="761.75" y="598" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.58"/>
+<rect x="862.5" y="598" width="93.75" height="36" rx="5" fill="#F0B429" opacity="0.58"/>
+<rect x="963.25" y="598" width="93.75" height="36" rx="5" fill="#C06BE0" opacity="0.58"/>
+<rect x="258.0" y="642" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.4"/>
+<rect x="358.75" y="642" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="0.4"/>
+<rect x="459.5" y="642" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.4"/>
+<rect x="560.25" y="642" width="93.75" height="36" rx="5" fill="#3E93E6" opacity="0.4"/>
+<rect x="661.0" y="642" width="93.75" height="36" rx="5" fill="#F0B429" opacity="0.4"/>
+<rect x="761.75" y="642" width="93.75" height="36" rx="5" fill="#46C07A" opacity="0.4"/>
+<rect x="862.5" y="642" width="93.75" height="36" rx="5" fill="#F0B429" opacity="0.4"/>
+<rect x="963.25" y="642" width="93.75" height="36" rx="5" fill="#C06BE0" opacity="0.4"/>
+<circle cx="1088" cy="528" r="15" fill="#2B2B2B" stroke="#3A3A3A"/>
+<circle cx="1126" cy="528" r="15" fill="#2B2B2B" stroke="#3A3A3A"/>
+<circle cx="1088" cy="572" r="15" fill="#2B2B2B" stroke="#3A3A3A"/>
+<circle cx="1126" cy="572" r="15" fill="#1E1E1E" stroke="#3A3A3A"/>
+<circle cx="1088" cy="616" r="15" fill="#1E1E1E" stroke="#3A3A3A"/>
+<circle cx="1126" cy="616" r="15" fill="#2B2B2B" stroke="#3A3A3A"/>
+<circle cx="1088" cy="660" r="15" fill="#E3000F" stroke="#3A3A3A"/>
+<circle cx="1126" cy="660" r="15" fill="#2B2B2B" stroke="#3A3A3A"/>
+<rect x="258.0" y="702" width="44.375" height="14" rx="3" fill="#E3000F"/>
+<rect x="308.375" y="702" width="44.375" height="14" rx="3" fill="#3E93E6"/>
+<rect x="358.75" y="702" width="44.375" height="14" rx="3" fill="#3E93E6"/>
+<rect x="409.125" y="702" width="44.375" height="14" rx="3" fill="#3E93E6"/>
+<rect x="459.5" y="702" width="44.375" height="14" rx="3" fill="#3E93E6"/>
+<rect x="509.875" y="702" width="44.375" height="14" rx="3" fill="#3E93E6"/>
+<rect x="560.25" y="702" width="44.375" height="14" rx="3" fill="#3E93E6"/>
+<rect x="610.625" y="702" width="44.375" height="14" rx="3" fill="#E3000F"/>
+<rect x="661.0" y="702" width="44.375" height="14" rx="3" fill="#767676"/>
+<rect x="711.375" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<rect x="761.75" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<rect x="812.125" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<rect x="862.5" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<rect x="912.875" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<rect x="963.25" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<rect x="1013.625" y="702" width="44.375" height="14" rx="3" fill="#46C07A"/>
+<text x="258" y="732" class="s" fill="#9A9A9A">STEPS  1–8 KEY BASS   ·   9 REST   ·   10–13 CHORD TONES   ·   14–16 DYADS</text>
+<circle cx="114" cy="710" r="16" fill="#232323" stroke="#3A3A3A"/>
+<circle cx="156" cy="710" r="16" fill="#232323" stroke="#3A3A3A"/>
+<text x="102" y="736" class="s" fill="#9A9A9A">PLAY   REC</text>
+<text x="80" y="770" class="cap">THE PANEL</text>
+<rect x="80.0" y="800" width="336.0" height="2" fill="#111"/>
+<text x="80.0" y="826" class="cap">PAD MODES</text>
+<text x="80.0" y="850" class="b">TRACK 1</text>
+<text x="152.0" y="850" class="t">Added bass</text>
+<text x="80.0" y="870" class="b">TRACK 2</text>
+<text x="152.0" y="870" class="t">Chord</text>
+<text x="80.0" y="890" class="b">TRACK 3</text>
+<text x="152.0" y="890" class="t">Arp — press again for 9 directions</text>
+<text x="80.0" y="910" class="b">TRACK 4</text>
+<text x="152.0" y="910" class="t">Strum — press again for 4</text>
+<text x="80.0" y="940" class="s">Arp needs the transport running.</text>
+<rect x="440.0" y="800" width="336.0" height="2" fill="#111"/>
+<text x="440.0" y="826" class="cap">HOLDING</text>
+<text x="440.0" y="850" class="b">LOOP</text>
+<text x="512.0" y="850" class="t">Recall the last chord</text>
+<text x="440.0" y="870" class="b">COPY</text>
+<text x="512.0" y="870" class="t">Legato — rings till the next</text>
+<text x="440.0" y="890" class="b">UNDO</text>
+<text x="512.0" y="890" class="t">Panic — stop everything</text>
+<text x="440.0" y="910" class="b">CAPTURE</text>
+<text x="512.0" y="910" class="t">Bar lock</text>
+<text x="440.0" y="940" class="s">Legato and sustain have no timeout.</text>
+<rect x="800.0" y="800" width="336.0" height="2" fill="#111"/>
+<text x="800.0" y="826" class="cap">STEPS</text>
+<text x="800.0" y="850" class="b">1–8</text>
+<text x="872.0" y="850" class="t">Bass notes of the key</text>
+<text x="800.0" y="870" class="b">9</text>
+<text x="872.0" y="870" class="t">Rest</text>
+<text x="800.0" y="890" class="b">10–13</text>
+<text x="872.0" y="890" class="t">Notes of the last chord</text>
+<text x="800.0" y="910" class="b">14–16</text>
+<text x="872.0" y="910" class="t">Two-note figures</text>
+<text x="800.0" y="940" class="s">A dark step cannot sound.</text>
+<rect x="80.0" y="990" width="336.0" height="2" fill="#111"/>
+<text x="80.0" y="1016" class="cap">KNOBS</text>
+<text x="80.0" y="1040" class="b">K1</text>
+<text x="152.0" y="1040" class="t">Tempo</text>
+<text x="80.0" y="1060" class="b">K2</text>
+<text x="152.0" y="1060" class="t">Key</text>
+<text x="80.0" y="1080" class="b">K3</text>
+<text x="152.0" y="1080" class="t">Major / minor</text>
+<text x="80.0" y="1100" class="b">K4</text>
+<text x="152.0" y="1100" class="t">Spread</text>
+<text x="80.0" y="1120" class="b">K5</text>
+<text x="152.0" y="1120" class="t">Inversion</text>
+<text x="80.0" y="1140" class="b">K6</text>
+<text x="152.0" y="1140" class="t">Strum spacing</text>
+<text x="80.0" y="1160" class="b">K7</text>
+<text x="152.0" y="1160" class="t">Arp note length</text>
+<text x="80.0" y="1180" class="b">K8</text>
+<text x="152.0" y="1180" class="t">Arp start note</text>
+<text x="80.0" y="1210" class="s">One click reports. Five or six change it.</text>
+<rect x="440.0" y="990" width="336.0" height="2" fill="#111"/>
+<text x="440.0" y="1016" class="cap">TIMING</text>
+<text x="440.0" y="1040" class="b">MENU</text>
+<text x="512.0" y="1040" class="t">Rate strip</text>
+<text x="440.0" y="1060" class="b">+ JOG</text>
+<text x="512.0" y="1060" class="t">Dual rates</text>
+<text x="440.0" y="1080" class="b">CAPTURE</text>
+<text x="512.0" y="1080" class="t">Lock to the bar</text>
+<text x="440.0" y="1100" class="b">PLAY</text>
+<text x="512.0" y="1100" class="t">Transport</text>
+<text x="440.0" y="1130" class="s">Dual rates run two speeds in one pattern.</text>
+<rect x="800.0" y="990" width="336.0" height="2" fill="#111"/>
+<text x="800.0" y="1016" class="cap">MOVING</text>
+<text x="800.0" y="1040" class="b">JOG</text>
+<text x="872.0" y="1040" class="t">Browse pages</text>
+<text x="800.0" y="1060" class="b">CLICK</text>
+<text x="872.0" y="1060" class="t">Commit</text>
+<text x="800.0" y="1080" class="b">UP / DOWN</text>
+<text x="872.0" y="1080" class="t">Chord octave</text>
+<text x="800.0" y="1100" class="b">SHIFT +</text>
+<text x="872.0" y="1100" class="t">Bass octave</text>
+<text x="800.0" y="1120" class="b">SHIFT TAP</text>
+<text x="872.0" y="1120" class="t">Relative minor</text>
+<rect x="80" y="761" width="11" height="11" rx="2" fill="#46C07A"/>
+<text x="98" y="770" class="s" fill="#111">TONIC</text>
+<rect x="162.0" y="761" width="11" height="11" rx="2" fill="#3E93E6"/>
+<text x="180.0" y="770" class="s" fill="#111">SUBDOMINANT</text>
+<rect x="282.4" y="761" width="11" height="11" rx="2" fill="#F0B429"/>
+<text x="300.4" y="770" class="s" fill="#111">DOMINANT</text>
+<rect x="383.59999999999997" y="761" width="11" height="11" rx="2" fill="#C06BE0"/>
+<text x="401.59999999999997" y="770" class="s" fill="#111">BORROWED</text>
+<rect x="484.79999999999995" y="761" width="11" height="11" rx="2" fill="#E3000F"/>
+<text x="502.79999999999995" y="770" class="s" fill="#111">KEY ROOT</text>
+<text x="1160" y="770" class="s" text-anchor="end">Colour tells you the chord’s job. Each page shifts the palette.</text>
+<text x="228" y="700" class="s" fill="#9A9A9A">TRACKS 1–4 = PAD MODE</text>
+<text x="1136" y="700" class="s" fill="#9A9A9A" text-anchor="end">UNDO = PANIC</text>
+<rect x="80" y="1250" width="1080" height="2" fill="#111"/>
+<text x="80" y="1276" class="cap">TWENTY PAGES</text>
+<rect x="80.0" y="1293" width="19" height="19" rx="2" fill="#111"/>
+<text x="89.5" y="1307" class="num" text-anchor="middle">0</text>
+<text x="108.0" y="1307" class="t">POWER</text>
+<rect x="296.0" y="1293" width="19" height="19" rx="2" fill="#111"/>
+<text x="305.5" y="1307" class="num" text-anchor="middle">1</text>
+<text x="324.0" y="1307" class="t">QUAD-ii</text>
+<rect x="512.0" y="1293" width="19" height="19" rx="2" fill="#111"/>
+<text x="521.5" y="1307" class="num" text-anchor="middle">2</text>
+<text x="540.0" y="1307" class="t">QUAD-vi</text>
+<rect x="728.0" y="1293" width="19" height="19" rx="2" fill="#111"/>
+<text x="737.5" y="1307" class="num" text-anchor="middle">3</text>
+<text x="756.0" y="1307" class="t">TRIADS-6</text>
+<rect x="944.0" y="1293" width="19" height="19" rx="2" fill="#111"/>
+<text x="953.5" y="1307" class="num" text-anchor="middle">4</text>
+<text x="972.0" y="1307" class="t">BLUES</text>
+<rect x="80.0" y="1333" width="19" height="19" rx="2" fill="#111"/>
+<text x="89.5" y="1347" class="num" text-anchor="middle">5</text>
+<text x="108.0" y="1347" class="t">SEC DOM</text>
+<rect x="296.0" y="1333" width="19" height="19" rx="2" fill="#111"/>
+<text x="305.5" y="1347" class="num" text-anchor="middle">6</text>
+<text x="324.0" y="1347" class="t">CIRCLE</text>
+<rect x="512.0" y="1333" width="19" height="19" rx="2" fill="#111"/>
+<text x="521.5" y="1347" class="num" text-anchor="middle">7</text>
+<text x="540.0" y="1347" class="t">7THS</text>
+<rect x="728.0" y="1333" width="19" height="19" rx="2" fill="#111"/>
+<text x="737.5" y="1347" class="num" text-anchor="middle">8</text>
+<text x="756.0" y="1347" class="t">TENTHS</text>
+<rect x="944.0" y="1333" width="19" height="19" rx="2" fill="#111"/>
+<text x="953.5" y="1347" class="num" text-anchor="middle">9</text>
+<text x="972.0" y="1347" class="t">MELODY</text>
+<rect x="80.0" y="1373" width="19" height="19" rx="2" fill="#111"/>
+<text x="89.5" y="1387" class="num" text-anchor="middle">A</text>
+<text x="108.0" y="1387" class="t">INTERVL</text>
+<rect x="296.0" y="1373" width="19" height="19" rx="2" fill="#111"/>
+<text x="305.5" y="1387" class="num" text-anchor="middle">B</text>
+<text x="324.0" y="1387" class="t">BUILDER</text>
+<rect x="512.0" y="1373" width="19" height="19" rx="2" fill="#111"/>
+<text x="521.5" y="1387" class="num" text-anchor="middle">D</text>
+<text x="540.0" y="1387" class="t">NINTHS</text>
+<rect x="728.0" y="1373" width="19" height="19" rx="2" fill="#111"/>
+<text x="737.5" y="1387" class="num" text-anchor="middle">E</text>
+<text x="756.0" y="1387" class="t">11-13</text>
+<rect x="944.0" y="1373" width="19" height="19" rx="2" fill="#111"/>
+<text x="953.5" y="1387" class="num" text-anchor="middle">F</text>
+<text x="972.0" y="1387" class="t">ALTERED</text>
+<rect x="80.0" y="1413" width="19" height="19" rx="2" fill="#111"/>
+<text x="89.5" y="1427" class="num" text-anchor="middle">G</text>
+<text x="108.0" y="1427" class="t">SUS-DIM</text>
+<rect x="296.0" y="1413" width="19" height="19" rx="2" fill="#111"/>
+<text x="305.5" y="1427" class="num" text-anchor="middle">C</text>
+<text x="324.0" y="1427" class="t">USER</text>
+<rect x="512.0" y="1413" width="19" height="19" rx="2" fill="#111"/>
+<text x="521.5" y="1427" class="num" text-anchor="middle">H</text>
+<text x="540.0" y="1427" class="t">HELP</text>
+<rect x="728.0" y="1413" width="19" height="19" rx="2" fill="#111"/>
+<text x="737.5" y="1427" class="num" text-anchor="middle">M</text>
+<text x="756.0" y="1427" class="t">MONITOR</text>
+<rect x="944.0" y="1413" width="19" height="19" rx="2" fill="#111"/>
+<text x="953.5" y="1427" class="num" text-anchor="middle">P</text>
+<text x="972.0" y="1427" class="t">PALETTE</text>
+<text x="80" y="1480" class="s">Page 3 is the place to start. Press H on the device for help.</text>
+<rect x="80" y="1646" width="1080" height="2" fill="#E3000F"/>
+<text x="80" y="1676" class="b">USB ONLY</text>
+<text x="80" y="1696" class="t">ATLAS sends MIDI over USB to a computer. It cannot play Move’s internal synths — the</text>
+<text x="80" y="1714" class="t">Schwung function that would reach them delivers nothing. Shift+Mute arms that route for</text>
+<text x="80" y="1732" class="t">the day it works again.</text>
+<text x="1160" y="1732" class="s" text-anchor="end">github.com/xbraindance</text>
+</svg>
