@@ -8,7 +8,7 @@ dominants, the circle of fifths, ninths, elevenths and thirteenths, altered
 dominants. Plus an arpeggiator, a strummer, two bass lanes and a chord library
 you build as you play.
 
-![The panel](/panel(1).svg)
+![The panel](/panel1.svg)
 
 ---
 
