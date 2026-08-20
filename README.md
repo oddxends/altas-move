@@ -180,7 +180,7 @@ leaping. Turn it up for manual inversions.
 
 ## The pages
 
-![All twenty pages](docs/pages1.svg)
+![All twenty pages](/pages1.svg)
 
 | | | |
 |---|---|---|
